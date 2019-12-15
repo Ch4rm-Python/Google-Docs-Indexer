@@ -1,0 +1,22 @@
+body {
+    background: #cecece;
+}
+h1 {
+    text-align: center;
+}
+img {
+    align-self: center;
+}
+a {
+    text-align: center;
+}
+text {
+    text-align: center;
+}
+div 
+{ 
+  color:white; 
+  margin: 2px; 
+  font-size: 30px;
+  line-height: 1.6;
+} 
